@@ -1,6 +1,6 @@
 import React from "react"
 import Back from "../common/back/Back"
-import CourseCard from "./CourseCard";
+import CourseCard from "../allcourses/CourseCard.jsx"; // correct casing and extension
 import OnlineCourses from "./OnlineCourses"
 
 const CourseHome = () => {
