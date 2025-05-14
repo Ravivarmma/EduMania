@@ -56,4 +56,4 @@ const CoursesCard = () => {
   )
 }
 
-export default CoursesCard
+export default CoursesCard;
